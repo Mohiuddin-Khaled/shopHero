@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Montserrat";
+    font-style: normal;
+}
+
+/* .category {
+    margin-right: 20px;
+}
+
+.img-icon {
+    margin-bottom: 10px;
+}
+ */
+
+.product-text {
+    gap: 10px;
+}
+
+/*
+.heart-icon {
+    float: right;
+    margin-right: 10px;
+} */
+
+.footer-img {
+    height: 342px;
+    width: 421px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.eleven-eleven {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.eleven-eleven .eleven {
+    color: #25177B;
+}
+
+.eleven-eleven .sale {
+    color: #FFFFFF;
+}
+
+.footer-pic {
+    height: 357px;
+    width: 570px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.square {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.icon-footer {
+    height: 47px;
+    width: 228px;
+}
+
+.icon-font i:not(:last-child) {
+    margin-right: 40px;
+}
+
+.text_color {
+    color: #CFCFCF;
+}
